@@ -17,7 +17,7 @@ namespace MutliModalLiveCopilotWpfApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        const string _geminiApiKey = "AIzaSyBIiz2RsfBWaRo5le9R68PX06cvIy6Ricw";
+        const string _geminiApiKey = "";
         Markdown engine = new Markdown();
 
         private Point _startPoint;
